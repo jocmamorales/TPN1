@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TPN1</string>
+    <string name="header1">TP Nº1</string>
+    <string name="btnE1">EJERCICIO 1</string>
+    <string name="btnE2">EJERCICIO 2</string>
+    <string name="tvInteg">ANDREA NUÑEZ</string>
+    <string name="header2">Suma</string>
+    <string name="tvNro1">Primer Número:</string>
+    <string name="tvNro2">Segundo Número:</string>
+    <string name="btnCalcular">CALCULAR</string>
+    <string name="btnRegresar">Regresar</string>
+</resources>
